@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/github-jobs-app/static/js/main.ba5bc896.chunk.js",
-    "main.js.map": "/github-jobs-app/static/js/main.ba5bc896.chunk.js.map",
-    "runtime-main.js": "/github-jobs-app/static/js/runtime-main.eee702ed.js",
-    "runtime-main.js.map": "/github-jobs-app/static/js/runtime-main.eee702ed.js.map",
-    "static/js/2.55589ce9.chunk.js": "/github-jobs-app/static/js/2.55589ce9.chunk.js",
-    "static/js/2.55589ce9.chunk.js.map": "/github-jobs-app/static/js/2.55589ce9.chunk.js.map",
-    "index.html": "/github-jobs-app/index.html",
-    "static/js/2.55589ce9.chunk.js.LICENSE.txt": "/github-jobs-app/static/js/2.55589ce9.chunk.js.LICENSE.txt"
+    "main.js": "/jobsearch-github-api/static/js/main.ba5bc896.chunk.js",
+    "main.js.map": "/jobsearch-github-api/static/js/main.ba5bc896.chunk.js.map",
+    "runtime-main.js": "/jobsearch-github-api/static/js/runtime-main.15c2477d.js",
+    "runtime-main.js.map": "/jobsearch-github-api/static/js/runtime-main.15c2477d.js.map",
+    "static/js/2.55589ce9.chunk.js": "/jobsearch-github-api/static/js/2.55589ce9.chunk.js",
+    "static/js/2.55589ce9.chunk.js.map": "/jobsearch-github-api/static/js/2.55589ce9.chunk.js.map",
+    "index.html": "/jobsearch-github-api/index.html",
+    "static/js/2.55589ce9.chunk.js.LICENSE.txt": "/jobsearch-github-api/static/js/2.55589ce9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eee702ed.js",
+    "static/js/runtime-main.15c2477d.js",
     "static/js/2.55589ce9.chunk.js",
     "static/js/main.ba5bc896.chunk.js"
   ]
